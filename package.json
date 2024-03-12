@@ -1,0 +1,24 @@
+{
+  "name": "parser-table",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmPe91/parser-table.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DmPe91/parser-table/issues"
+  },
+  "homepage": "https://github.com/DmPe91/parser-table#readme",
+  "dependencies": {
+    "file-saver": "^2.0.5",
+    "node-blob": "^0.0.2",
+    "puppeteer": "^22.4.1"
+  }
+}
