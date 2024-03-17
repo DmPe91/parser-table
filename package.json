@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/DmPe91/parser-table#readme",
   "dependencies": {
+    "csv": "^6.3.8",
     "file-saver": "^2.0.5",
     "node-blob": "^0.0.2",
     "puppeteer": "^22.4.1"
